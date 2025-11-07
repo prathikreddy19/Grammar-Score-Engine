@@ -7,3 +7,6 @@ librosa
 numpy
 joblib
 pandas
+xgboost
+scikit-learn
+soundfile
