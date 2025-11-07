@@ -87,11 +87,8 @@ The deployed app uses Librosa-only inference for instant results.
 Whisper and SentenceTransformer-based features were used in the training notebook only.
 All artifacts are included for reproducibility and offline testing.
 
-**Author**
+## Author
+**Prathik Reddy**  
+Email: [prathikreddy1230@gmail.com](mailto:prathikreddy1230@gmail.com)  
+LinkedIn: [linkedin.com/in/prathikreddymettu](https://linkedin.com/in/prathikreddymettu)
 
-Prathik Reddy
-Email: prathikreddy1230@gmail.com
-LinkedIn: linkedin.com/in/prathikreddymettu/
-
-
-## Project Structure
